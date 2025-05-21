@@ -23,7 +23,7 @@
  - Certificate
 
   ## 📜 Certifications  
-  ![Certificate](/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg)  
+  
 
 - **Certification Name**: [e.g., AWS Cloud Practitioner]  
 - **Issuer**: [e.g., Amazon Web Services]  
