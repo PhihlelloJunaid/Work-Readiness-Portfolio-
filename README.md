@@ -11,9 +11,6 @@ Table of Contents
  
  
 ---
-Career Counseling  
-Evidence  
-
 Reflection  
 - **Situation**: Our class completed a skills audit to identify strengths.  
 - **Task**: I needed to match my skills to IT career paths.  
