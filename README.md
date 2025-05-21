@@ -14,8 +14,8 @@ Table of Contents
 Career Counseling  
 Evidence  
 
-Reflection 
-- **Situation**: [Brief context]  
-- **Task**: [What i need to accomplish]  
-- **Action**: [Steps i took]  
-- **Result**: [Outcome + skills learned]  
+Reflection  
+- **Situation**: Our class completed a skills audit to identify strengths.  
+- **Task**: I needed to match my skills to IT career paths.  
+- **Action**: I researched job descriptions, then used a SWOT analysis.  
+- **Result**: I discovered my strength in problem-solving and chose to pursue cloud computing.  
