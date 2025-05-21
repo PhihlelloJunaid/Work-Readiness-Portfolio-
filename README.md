@@ -15,6 +15,13 @@
  
  - Certificate
  - <img src="/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg" alt="Personality Test Results" width="400" />
+ - ## 📄 CV  
+  [![Download CV](https://img.shields.io/badge/Download-CV-green)](files/CV_202409280937452.pdf)  
+
+  *Key highlights:*  
+  - **Education**: BTech in IT (CPUT)  
+  - **Experience**: Internship at [Company] (if applicable)  
+  - **Technical Skills**: Python, SQL, Cloud Computing 
  
  
  
