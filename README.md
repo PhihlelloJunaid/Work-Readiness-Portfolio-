@@ -5,7 +5,8 @@
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-blue)
 
-Table of Contents  
+## 📑 Table of Contents
+ 
   
 
  -  CV [files/CV_202409280937452.pdf](CV_202409280937452.pdf)
