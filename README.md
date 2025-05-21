@@ -2,6 +2,9 @@
 ### Digital Portfolio for PRP370S Assessment - CPUT  
 **By Phihlello Junaid (219354359)** 
 
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-blue)
+
 Table of Contents  
   
 
