@@ -15,20 +15,32 @@
  
  - Certificate
 
- - ## 📜 Certifications  
+  ## 📜 Certifications  
   ![Certificate](/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg)  
 
 - **Certification Name**: [e.g., AWS Cloud Practitioner]  
 - **Issuer**: [e.g., Amazon Web Services]  
 - **Skills Gained**: Cloud infrastructure, security basics  
  - <img src="/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg" alt="Personality Test Results" width="400" />
- - ## 📄 CV  
+## 📄 CV  
   [![Download CV](https://img.shields.io/badge/Download-CV-green)](files/CV_202409280937452.pdf)  
 
   *Key highlights:*  
   - **Education**: BTech in IT (CPUT)  
   - **Experience**: Internship at [Company] (if applicable)  
-  - **Technical Skills**: Python, SQL, Cloud Computing 
+  - **Technical Skills**: Python, SQL, Cloud Computing
+## 💻 Skills & Competencies  
+
+| Technical Skills      | Proficiency Level |  
+|-----------------------|------------------|  
+| Python               | ⭐⭐⭐⭐☆          |  
+| Cloud Computing (AWS)| ⭐⭐⭐☆☆          |  
+| SQL                  | ⭐⭐⭐⭐☆          |  
+
+**Soft Skills:**  
+- ✅ Problem-solving  
+- ✅ Team collaboration  
+- ✅ Time management
  
  
  
