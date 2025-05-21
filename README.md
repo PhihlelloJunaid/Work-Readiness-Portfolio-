@@ -4,7 +4,7 @@ Digital Portfolio for PRP370S Assessment - CPUT
 
 Table of Contents  
   
- - Personality Assessment[file/Screenshot (45).png](/images/Screenshot (45).png)  
+ - Personality Assessment((Screenshot (45).png ))
  - CV [files/CV_202409280937452.pdf](CV_202409280937452.pdf)
  - CV Submission
  
