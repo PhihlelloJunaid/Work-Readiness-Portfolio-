@@ -6,7 +6,7 @@ Table of Contents
  - Career Counseling 
  - Skills and Interests 
  - Personality Assessment
- - CV 
+ - CV [View my CV](/files/CV.pdf)
  - CV Submission
  
 ---
