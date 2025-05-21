@@ -7,6 +7,13 @@
 
 ## 📑 Table of Contents
  
+- [CV](#cv)  
+- [Personality Test Results](#personality-test-results)  
+- [Certifications](#certifications)  
+- [Reflection](#reflection)  
+- [Skills & Competencies](#skills--competencies)  
+- [Career Goals](#career-goals)  
+- [Contact](#contact)  
   
 
  -  CV [files/CV_202409280937452.pdf](CV_202409280937452.pdf)
