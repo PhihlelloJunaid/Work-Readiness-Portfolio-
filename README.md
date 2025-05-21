@@ -9,7 +9,8 @@ Table of Contents
  -  Personality test results
  -   <img src="/Screenshot%20(45).png" alt="My Results" width="500" />
  
- - [Personality Test Results]<img src="/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg" alt="Personality Test Results" width="400" />
+ - Certificate
+ - <img src="/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg" alt="Personality Test Results" width="400" />
  
  
  
