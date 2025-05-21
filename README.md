@@ -1,6 +1,6 @@
-# Work-Readiness-Portfolio-
-Digital Portfolio for PRP370S Assessment - CPUT 
- By   Phihlello Junaid 219354359
+# Work-Readiness Portfolio  
+### Digital Portfolio for PRP370S Assessment - CPUT  
+**By Phihlello Junaid (219354359)** 
 
 Table of Contents  
   
