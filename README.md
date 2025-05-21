@@ -3,11 +3,11 @@ Digital Portfolio for PRP370S Assessment - CPUT
  By   Phihlello Junaid
 
 Table of Contents  
- -Career Counseling 
- -Skills and Interests 
- -Personality Assessment
- -CV 
- -CV Submission
+ - Career Counseling 
+ - Skills and Interests 
+ - Personality Assessment
+ - CV 
+ - CV Submission
  
 ---
 Career Counseling  
