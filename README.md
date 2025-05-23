@@ -24,7 +24,7 @@
 
   ## 📜 Certifications  
   
-[files/Coursera 4EBN64AVV4XN.pdf](Coursera 4EBN64AVV4XN.pdf)
+[files/Coursera 4EBN64AVV4XN.pdf]((Coursera 4EBN64AVV4XN.pdf))
 - **Certification Name**: [Google IT Support]  
 - **Issuer**: [Coursera]  
 - **Skills Gained**: Technical Support
@@ -38,8 +38,6 @@ IT Infrastructure Services
 IT Security: Defense against
 the digital dark arts 
  
-## 📄 CV  
-  [![Download CV](https://img.shields.io/badge/Download-CV-green)](files/CV_202409280937452.pdf)  
 
   *Key highlights:*  
   - **Education**: BTech in IT (CPUT)  
