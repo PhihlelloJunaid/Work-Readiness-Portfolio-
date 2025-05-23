@@ -33,7 +33,7 @@
 
 ## 📜 Certifications  
 ### Google IT Support Professional  
-[View Certificate](/file/Coursera_4EBN64AVV4XN.pdf)  
+[View Certificate](Coursera 4EBN64AVV4XN.pdf)  
 **Issuer**: Coursera  
 **Skills Gained**:  
 ✔ Technical Support Fundamentals  
