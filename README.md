@@ -24,8 +24,6 @@
 ---
 ## 🧠 Personality Test Results  
 ![My Personality Test Results](/Screenshot%20(45).png)  
- -<img src="/Screenshot%20(45).png" alt="My Results" width="500" />
-
 **Test Type**: [ Myers-Briggs, Big Five]  
 **Key Traits**:  
 - Trait 1 ("Analytical")  
