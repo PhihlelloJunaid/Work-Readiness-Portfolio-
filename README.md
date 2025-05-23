@@ -24,7 +24,7 @@
 
   ## 📜 Certifications  
   
-[files/CV_202409280937452.pdf](CV_202409280937452.pdf)
+[files/Coursera 4EBN64AVV4XN.pdf](Coursera 4EBN64AVV4XN.pdf)
 - **Certification Name**: [Google IT Support]  
 - **Issuer**: [Coursera]  
 - **Skills Gained**: Technical Support
