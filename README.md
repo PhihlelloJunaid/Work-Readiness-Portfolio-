@@ -19,7 +19,7 @@
 ---
 
 ## 📄 CV  
-[Download my CV here](files/CV_202409280937452.pdf)  
+[Download my CV here](CV_202409280937452.pdf)  
 
 ---
 ## 🧠 Personality Test Results  
