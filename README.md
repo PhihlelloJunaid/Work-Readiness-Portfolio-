@@ -9,8 +9,8 @@
 
 ## 📑 Table of Contents  
 1. [CV](#CV_202409280937452.pdf)  
-2. [Personality Test](#personality-test-results)  
-3. [Certifications](#certifications)  
+2. [Personality Test](#Screenshot%20(45).png)  
+3. [Certifications](#Coursera_4EBN64AVV4XN.pdf)  
 4. [Reflection](#reflection)  
 5. [Skills](#skills--competencies)  
 6. [Career Goals](#career-goals)  
@@ -35,7 +35,7 @@
 
 ## 📜 Certifications  
 ### Google IT Support Professional  
-[View Certificate](files/Coursera_4EBN64AVV4XN.pdf)  
+[View Certificate](Coursera_4EBN64AVV4XN.pdf)  
 **Issuer**: Coursera  
 **Skills Gained**:  
 ✔ Technical Support Fundamentals  
