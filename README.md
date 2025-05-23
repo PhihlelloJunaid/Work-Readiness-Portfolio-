@@ -24,11 +24,20 @@
 
   ## 📜 Certifications  
   
-
-- **Certification Name**: [e.g., AWS Cloud Practitioner]  
-- **Issuer**: [e.g., Amazon Web Services]  
-- **Skills Gained**: Cloud infrastructure, security basics  
- - <img src="/WhatsApp%20Image%202025-05-21%20at%2015.28.09_31d36ec3.jpg" alt="Personality Test Results" width="400" />
+[files/CV_202409280937452.pdf](CV_202409280937452.pdf)
+- **Certification Name**: [Google IT Support]  
+- **Issuer**: [Coursera]  
+- **Skills Gained**: Technical Support
+Fundamentals
+The Bits and Bytes of
+Computer Networking
+Operating Systems and You:
+Becoming a Power User
+System Administration and
+IT Infrastructure Services
+IT Security: Defense against
+the digital dark arts 
+ 
 ## 📄 CV  
   [![Download CV](https://img.shields.io/badge/Download-CV-green)](files/CV_202409280937452.pdf)  
 
