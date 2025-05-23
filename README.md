@@ -40,16 +40,17 @@ the digital dark arts
  
 
   *Key highlights:*  
-  - **Education**: BTech in IT (CPUT)  
-  - **Experience**: Internship at [Company] (if applicable)  
-  - **Technical Skills**: Python, SQL, Cloud Computing
+  - **Education**: Diploma in ICT (CPUT)  
+  - **Experience**: currently studying final diploma in ICT(Software development) 
+  - **Technical Skills**: Java, Python, SQL, Technical Support
 ## 💻 Skills & Competencies  
 
 | Technical Skills      | Proficiency Level |  
 |-----------------------|------------------|  
-| Python               | ⭐⭐⭐⭐☆          |  
-| Cloud Computing (AWS)| ⭐⭐⭐☆☆          |  
-| SQL                  | ⭐⭐⭐⭐☆          |  
+| Java                  | ⭐⭐⭐⭐☆      | 
+| Python                | ⭐⭐⭐⭐☆          | 
+|Technical Support      | ⭐⭐⭐☆☆          |  
+| SQL                   | ⭐⭐⭐⭐☆          |  
 
 **Soft Skills:**  
 - ✅ Problem-solving  
