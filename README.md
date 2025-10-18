@@ -39,7 +39,7 @@ I drafted and sent a professional email to request an informational interview re
 
 **Evidence:**  
 I prepared for potential job interviews by researching common behavioral questions and drafting structured responses. 
-[View my interview preparation Q&A here](Q&A document.pdf)
+[View my interview preparation Q&A here](Q&Adocument.pdf)
 
 
 **Reflection (STAR Technique):**  
