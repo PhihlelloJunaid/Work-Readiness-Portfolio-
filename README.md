@@ -22,7 +22,7 @@ Welcome to my digital portfolio! This portfolio showcases the skills and compete
 
 ---
 ### Business Communication
-**Evidence:**
+
 **Evidence:**  
 I drafted and sent a professional email to request an informational interview regarding career paths in IT.  
 [View the email screenshot here](professional_email.png)
@@ -32,6 +32,20 @@ I drafted and sent a professional email to request an informational interview re
 *   **Task:** My goal was to compose a clear, concise, and polite email that would introduce myself, state my purpose, and respectfully request a short meeting or call.
 *   **Action:** I researched professional email formats, ensured my subject line was specific, addressed the recipient properly, briefly introduced myself as a CPUT student, clearly stated my request, and proposed a flexible call to action.
 *   **Result & Learning:** The recipient replied positively and agreed to a call. I learned that effective professional communication is direct yet courteous, and that taking the time to craft a well-structured email significantly increases the likelihood of a positive response. This skill is crucial for networking and future job applications.
+
+[Back to Top](#portfolio-overview)
+---
+### Interview Skills
+
+**Evidence:**  
+I prepared for potential job interviews by researching common behavioral questions and drafting structured responses.  
+[View my interview preparation Q&A here]()
+
+**Reflection (STAR Technique):**  
+*   **Situation:** I recognized that being unprepared for common interview questions was a major weakness and could hurt my chances of securing a job.
+*   **Task:** My goal was to proactively prepare answers to frequent behavioral questions (like "Tell me about a time you worked in a team") to build confidence and improve my ability to respond clearly and effectively under pressure.
+*   **Action:** I researched the most common IT and general behavioral interview questions. For each one, I outlined a response using the STAR technique to ensure my answers were structured, specific, and highlighted my skills and achievements. I practiced saying these answers out loud.
+*   **Result & Learning:** This preparation made me feel significantly more confident and less anxious about the prospect of an interview. I learned that having pre-formulated, structured stories prevents rambling and ensures I communicate my key strengths effectively. It transformed the interview from a source of fear into a manageable conversation I can prepare for.
 
 [Back to Top](#portfolio-overview)
 ---
