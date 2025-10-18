@@ -4,22 +4,25 @@
 
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified-orange)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-blue)
-
 ---
 
-## 📑 Table of Contents  
-1. [CV](#CV_202409280937452.pdf)  
-2. [Personality Test](#Screenshot%20(45).png)  
-3. [Certifications](#Coursera_4EBN64AVV4XN.pdf)  
-4. [Reflection](#reflection)  
-5. [Skills](#skills--competencies)  
-6. [Career Goals](#career-goals)  
-7. [Contact](#contact)  
+## Portfolio Overview
 
+Welcome to my digital portfolio! This portfolio showcases the skills and competencies I have developed through work readiness training.
 ---
 
-## 📄 CV  
-[Download my CV here](CV_202409280937452.pdf)  
+## Portfolio Sections
+
+1.  **[Business Communication](#business-communication)**
+2.  **[Interview Skills](#interview-skills)**
+3.  **[Mock Interview](#mock-interview)**
+4.  **[Professional Networking](#professional-networking)**
+5.  **[Workplace Etiquette](#workplace-etiquette)** 
+
+
+---
+### Business Communication
+**Evidence:**
 
 ---
 ## 🧠 Personality Test Results  
