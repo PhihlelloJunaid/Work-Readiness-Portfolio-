@@ -67,39 +67,35 @@ I participated in a simulated job interview for an Entry-Level IT Support Specia
 *   **Result & Learning:** I received feedback that my technical answers were strong, but I sometimes spoke too quickly when nervous. This experience was invaluable—it highlighted the importance of pacing my speech and taught me that preparation significantly reduces anxiety. I now feel more confident about handling the pressure of a real interview.
 
 ---
-  *Key highlights:*  
-  - **Education**: Diploma in ICT (CPUT)  
-  - **Experience**: currently studying final diploma in ICT(Software development) 
-  - **Technical Skills**: Java, Python, SQL, Technical Support
-## 💻 Skills & Competencies  
+  ### Professional Networking
 
-| Technical Skills      | Proficiency Level |  
-|-----------------------|------------------|  
-| Java                  | ⭐⭐⭐⭐☆      | 
-| Python                | ⭐⭐⭐⭐☆          | 
-|Technical Support      | ⭐⭐⭐☆☆          |  
-| SQL                   | ⭐⭐⭐⭐☆          |  
+**Evidence:**  
+I have created and optimized my LinkedIn profile to build a professional online presence and connect with industry experts.  
+[View my LinkedIn profile screenshot here](./evidence/professional-networking/linkedin_profile.pdf)
 
-**Soft Skills:**  
-- ✅ Problem-solving  
-- ✅ Team collaboration  
-- ✅ Time management
-- ---
+**Reflection (STAR Technique):**  
+*   **Situation:** I recognized that the modern job market heavily relies on online professional networks, and I lacked a strong digital presence to connect with potential employers and industry peers.
+*   **Task:** My goal was to create a complete and professional LinkedIn profile that accurately represents my skills, education, and career aspirations to attract relevant connections and opportunities.
+*   **Action:** I researched what makes a strong student LinkedIn profile. I then uploaded a professional photo, crafted a compelling headline, wrote a summary that highlights my technical skills and projects, and detailed my education and relevant coursework. I also began connecting with CPUT alumni and local IT companies.
+*   **Result & Learning:** My profile now serves as a dynamic digital CV. I've received connection requests from recruiters and have gained visibility into industry trends. I learned that networking is not just about asking for jobs—it's about building relationships and sharing knowledge, and LinkedIn is a powerful tool for maintaining these connections over time.
 
-## 💡 Reflection  
-### Skills Audit & Career Path  
-**Situation**:  
-Class activity to identify skills strengths/gaps.  
+[Back to Top](#portfolio-overview)
+--- 
 
-**Task**:  
-Align skills with IT career paths.  
+### Professional Networking
 
-**Action**:  
-- Researched job descriptions  
-- Conducted SWOT analysis  
+**Evidence:**  
+I have created and optimized my LinkedIn profile to build a professional online presence and connect with industry experts.  
+[View my LinkedIn profile screenshot here](.)
 
-**Result**:  
-Discovered strength in problem-solving; chose to pursue cloud computing.  
+**Reflection (STAR Technique):**  
+*   **Situation:** I recognized that the modern job market heavily relies on online professional networks, and I lacked a strong digital presence to connect with potential employers and industry peers.
+*   **Task:** My goal was to create a complete and professional LinkedIn profile that accurately represents my skills, education, and career aspirations to attract relevant connections and opportunities.
+*   **Action:** I researched what makes a strong student LinkedIn profile. I then uploaded a professional photo, crafted a compelling headline, wrote a summary that highlights my technical skills and projects, and detailed my education and relevant coursework. I also began connecting with CPUT alumni and local IT companies.
+*   **Result & Learning:** My profile now serves as a dynamic digital CV. I've received connection requests from recruiters and have gained visibility into industry trends. I learned that networking is not just about asking for jobs—it's about building relationships and sharing knowledge, and LinkedIn is a powerful tool for maintaining these connections over time.
+
+[Back to Top](#portfolio-overview)
+---
 
 ---
 Reflection  
