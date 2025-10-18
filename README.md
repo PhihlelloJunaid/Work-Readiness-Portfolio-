@@ -54,16 +54,17 @@ I prepared for potential job interviews by researching common behavioral questio
 
 ---
 
-## 📜 Certifications  
-### Google IT Support Professional  
-[View Certificate](files/Coursera_4EBN64AVV4XN.pdf)   
-**Issuer**: Coursera  
-**Skills Gained**:  
-✔ Technical Support Fundamentals  
-✔ Computer Networking  
-✔ Operating Systems  
-✔ IT Infrastructure  
-✔ Cybersecurity Basics  
+### Interview
+
+**Evidence:**  
+I participated in a simulated job interview for an Entry-Level IT Support Specialist role. The session covered both technical and behavioral questions.  
+[View the interview transcript here](.)
+
+**Reflection (STAR Technique):**  
+*   **Situation:** I was given the opportunity to participate in a 20-minute mock interview to practice my skills under pressure and receive constructive feedback.
+*   **Task:** My goal was to present myself professionally, answer questions clearly using the STAR method, and effectively communicate my technical knowledge and soft skills.
+*   **Action:** I prepared by researching common IT support questions and reviewing my own projects. During the interview, I maintained eye contact, listened carefully, and paused to structure my thoughts before answering. I used specific examples from my coursework to demonstrate my problem-solving abilities.
+*   **Result & Learning:** I received feedback that my technical answers were strong, but I sometimes spoke too quickly when nervous. This experience was invaluable—it highlighted the importance of pacing my speech and taught me that preparation significantly reduces anxiety. I now feel more confident about handling the pressure of a real interview.
 
 ---
   *Key highlights:*  
