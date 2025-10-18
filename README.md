@@ -38,8 +38,9 @@ I drafted and sent a professional email to request an informational interview re
 ### Interview Skills
 
 **Evidence:**  
-I prepared for potential job interviews by researching common behavioral questions and drafting structured responses.  
+I prepared for potential job interviews by researching common behavioral questions and drafting structured responses. 
 [View my interview preparation Q&A here](Q&A document.pdf)
+
 
 **Reflection (STAR Technique):**  
 *   **Situation:** I recognized that being unprepared for common interview questions was a major weakness and could hurt my chances of securing a job.
