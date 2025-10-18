@@ -86,7 +86,7 @@ I have created and optimized my LinkedIn profile to build a professional online 
 
 **Evidence:**  
 I have created and optimized my LinkedIn profile to build a professional online presence and connect with industry experts.  
-[View my LinkedIn profile screenshot here](.)
+[View my LinkedIn profile screenshot here](.linkedin_profile.png)
 
 **Reflection (STAR Technique):**  
 *   **Situation:** I recognized that the modern job market heavily relies on online professional networks, and I lacked a strong digital presence to connect with potential employers and industry peers.
