@@ -23,7 +23,18 @@ Welcome to my digital portfolio! This portfolio showcases the skills and compete
 ---
 ### Business Communication
 **Evidence:**
+**Evidence:**  
+I drafted and sent a professional email to request an informational interview regarding career paths in IT.  
+[View the email screenshot here](./evidence/business-communication/professional_email_example.pdf)
 
+**Reflection (STAR Technique):**  
+*   **Situation:** I needed to gather information about potential career opportunities in the IT sector but lacked direct contacts in the industry.
+*   **Task:** My goal was to compose a clear, concise, and polite email that would introduce myself, state my purpose, and respectfully request a short meeting or call.
+*   **Action:** I researched professional email formats, ensured my subject line was specific, addressed the recipient properly, briefly introduced myself as a CPUT student, clearly stated my request, and proposed a flexible call to action.
+*   **Result & Learning:** The recipient replied positively and agreed to a call. I learned that effective professional communication is direct yet courteous, and that taking the time to craft a well-structured email significantly increases the likelihood of a positive response. This skill is crucial for networking and future job applications.
+
+[Back to Top](#portfolio-overview)
+---
 ---
 ## 🧠 Personality Test Results  
 ![My Personality Test Results](/Screenshot%20(45).png)  
