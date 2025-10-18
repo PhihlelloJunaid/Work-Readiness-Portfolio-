@@ -15,7 +15,7 @@ Welcome to my digital portfolio! This portfolio showcases the skills and compete
 
 1.  **[Business Communication](#business-communication)**
 2.  **[Interview Skills](#interview-skills)**
-3.  **[Mock Interview](#mock-interview)**
+3.  **[Interview](#interview)**
 4.  **[Professional Networking](#professional-networking)**
 5.  **[Workplace Etiquette](#workplace-etiquette)** 
 
