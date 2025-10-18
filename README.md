@@ -66,27 +66,13 @@ I participated in a simulated job interview for an Entry-Level IT Support Specia
 *   **Action:** I prepared by researching common IT support questions and reviewing my own projects. During the interview, I maintained eye contact, listened carefully, and paused to structure my thoughts before answering. I used specific examples from my coursework to demonstrate my problem-solving abilities.
 *   **Result & Learning:** I received feedback that my technical answers were strong, but I sometimes spoke too quickly when nervous. This experience was invaluable—it highlighted the importance of pacing my speech and taught me that preparation significantly reduces anxiety. I now feel more confident about handling the pressure of a real interview.
 
----
-  ### Professional Networking
-
-**Evidence:**  
-I have created and optimized my LinkedIn profile to build a professional online presence and connect with industry experts.  
-[View my LinkedIn profile screenshot here](./evidence/professional-networking/linkedin_profile.pdf)
-
-**Reflection (STAR Technique):**  
-*   **Situation:** I recognized that the modern job market heavily relies on online professional networks, and I lacked a strong digital presence to connect with potential employers and industry peers.
-*   **Task:** My goal was to create a complete and professional LinkedIn profile that accurately represents my skills, education, and career aspirations to attract relevant connections and opportunities.
-*   **Action:** I researched what makes a strong student LinkedIn profile. I then uploaded a professional photo, crafted a compelling headline, wrote a summary that highlights my technical skills and projects, and detailed my education and relevant coursework. I also began connecting with CPUT alumni and local IT companies.
-*   **Result & Learning:** My profile now serves as a dynamic digital CV. I've received connection requests from recruiters and have gained visibility into industry trends. I learned that networking is not just about asking for jobs—it's about building relationships and sharing knowledge, and LinkedIn is a powerful tool for maintaining these connections over time.
-
-[Back to Top](#portfolio-overview)
 --- 
 
 ### Professional Networking
 
 **Evidence:**  
 I have created and optimized my LinkedIn profile to build a professional online presence and connect with industry experts.  
-[View my LinkedIn profile screenshot here](.linkedin_profile.png)
+[View my LinkedIn profile screenshot here](linkedin_profile.png)
 
 **Reflection (STAR Technique):**  
 *   **Situation:** I recognized that the modern job market heavily relies on online professional networks, and I lacked a strong digital presence to connect with potential employers and industry peers.
@@ -96,28 +82,18 @@ I have created and optimized my LinkedIn profile to build a professional online 
 
 [Back to Top](#portfolio-overview)
 ---
+### Workplace Etiquette
 
+**Evidence:**  
+I was actively included in a professional team collaboration using Google Sheets to track Objectives and Key Results (OKRs) for our Aeroponics project.  
+![Screenshot of shared OKR tracker](.)
+
+**Reflection (STAR Technique):**  
+*   **Situation:** Our aeroponics team needed to coordinate efforts and track progress systematically using a shared digital platform.
+*   **Task:** My role was to engage professionally with the shared OKR tracker, understand team objectives, and contribute to maintaining updated progress on our milestones.
+*   **Action:** I accepted the spreadsheet invitation, reviewed the OKR structure, and familiarized myself with the tracking system. I maintained professional communication with the team lead and ensured I understood my responsibilities within the collaborative framework.
+*   **Result & Learning:** This experience taught me the importance of digital collaboration tools in maintaining team alignment. I learned that workplace etiquette extends beyond personal interactions to include how we engage with shared resources, respect digital workspaces, and maintain transparency in team projects. This understanding is crucial for modern remote and hybrid work environments.
+
+[Back to Top](#portfolio-overview)
 ---
-Reflection  
-- **Situation**: Our class completed a skills audit to identify strengths.  
-- **Task**: I needed to match my skills to IT career paths.  
-- **Action**: I researched job descriptions, then used a SWOT analysis.  
-- **Result**: I discovered my strength in problem-solving and chose to pursue cloud computing.  
 
---
-## 🎯 Career Goals  
-**Short-term (1-2 years)**:  
-- Complete Diploma in ICT  
-- Earn AWS/Azure certification  
-
-**Long-term (5+ years)**:  
-- Become Cloud Engineer  
-- Specialize in DevOps  
---
-
-## 📧 Contact  
-**Email**: (phihlello.junaid@iclod.com)
-**LinkedIn**: (www.linkedin.com/in/phihlello-junaid-bba404211)
-**GitHub**:(github.com/PhihlelloJunaid)
-
----
