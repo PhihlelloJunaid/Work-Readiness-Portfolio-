@@ -49,13 +49,7 @@ I prepared for potential job interviews by researching common behavioral questio
 
 [Back to Top](#portfolio-overview)
 ---
----
-## 🧠 Personality Test Results  
-![My Personality Test Results](/Screenshot%20(45).png)  
-**Test Type**: [ Myers-Briggs, Big Five]  
-**Key Traits**:  
-- Trait 1 ("Analytical")  
-- Trait 2 ("Collaborative")  
+
 
 ---
 
