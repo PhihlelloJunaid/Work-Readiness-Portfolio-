@@ -25,7 +25,7 @@ Welcome to my digital portfolio! This portfolio showcases the skills and compete
 **Evidence:**
 **Evidence:**  
 I drafted and sent a professional email to request an informational interview regarding career paths in IT.  
-[View the email screenshot here](professional_email_example.pdf)
+[View the email screenshot here](professional_email.png)
 
 **Reflection (STAR Technique):**  
 *   **Situation:** I needed to gather information about potential career opportunities in the IT sector but lacked direct contacts in the industry.
