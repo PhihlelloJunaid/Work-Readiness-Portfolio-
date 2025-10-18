@@ -58,7 +58,7 @@ I prepared for potential job interviews by researching common behavioral questio
 
 **Evidence:**  
 I participated in a simulated job interview for an Entry-Level IT Support Specialist role. The session covered both technical and behavioral questions.  
-[View the interview transcript here](interview.docx)
+[View the interview transcript here](interview.pdf)
 
 **Reflection (STAR Technique):**  
 *   **Situation:** I was given the opportunity to participate in a 20-minute mock interview to practice my skills under pressure and receive constructive feedback.
